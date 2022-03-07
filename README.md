@@ -1,5 +1,5 @@
 # Bank Term Deposit Predictive Machine Learning Model
--> To check this project, just click on the Jupyter Notebook above!
+-> To check all the coding and analysis of this project, just click on the Jupyter Notebook above!
 
 ## Brief Overview
 
